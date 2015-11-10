@@ -2,6 +2,7 @@ name: axel
 favicon: null
 layout_spectrum: 0.912205366184935
 typography_spectrum: 0.5943338880315423
+title: welcome to the machine
 cta:
   domain: null
   bucket: null
