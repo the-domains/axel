@@ -1,0 +1,23 @@
+name: axel
+favicon: null
+layout_spectrum: 0.912205366184935
+typography_spectrum: 0.5943338880315423
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.7584373799618334
+  lightness: 0.37946462095715106
+  saturation: 0.6377282179892063
+  rhythmicContrast: 0.7002015328034759
+purpose: []
