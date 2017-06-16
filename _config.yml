@@ -1,7 +1,18 @@
-name: axel
+layout_spectrum: 0.3659705375864327
+typography_spectrum: 0.03797508580674703
+color:
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+  brandStrength: 0.6598128504105982
+  lightness: 0.8439572385301131
+  saturation: 0.9381364660878841
+  rhythmicContrast: 0.7055047028264639
+name: machine
 favicon: null
-layout_spectrum: 0.76373
-typography_spectrum: 0.25313
 title: welcome to the machine
 cta:
   domain: null
@@ -15,15 +26,13 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#040404'
-    - '#fffffd'
-    - '#6f5c3c'
-    - '#d0af7a'
-    - '#fee0a2'
-  brandStrength: 0.7584373799618334
-  lightness: 0.37946462095715106
-  saturation: 0.6377282179892063
-  rhythmicContrast: 0.7002015328034759
 purpose: []
+content: []
+description: spontaneous filth from outside the bubble
+url: 'https://giv.me'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/77429ac2-a4f6-4a15-af86-accde3eaa7e5.png
+author:
+  name: Dog
+  email: info@giv.me
+github: true
